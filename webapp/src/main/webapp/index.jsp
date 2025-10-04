@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Kristin Paris Duchesne</h1>
+<h2> Test Application for Azure Devops Tools CI/CD pipelines</h2>
+<h2> More to be added here</h2>
