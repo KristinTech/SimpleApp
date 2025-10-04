@@ -18,6 +18,7 @@ steps:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
     javaHomeOption: 'Path'
+    jdkDirectory: '/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home'
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
