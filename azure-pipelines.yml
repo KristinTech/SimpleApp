@@ -12,6 +12,8 @@ pool:
 
 steps:
 - task: Maven@3
+  env:
+    JAVA_HOME: /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
   inputs:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
