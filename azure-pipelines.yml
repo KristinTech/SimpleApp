@@ -5,9 +5,9 @@
 
 trigger:
 - master
-
+# I added the MacBookPro agent under default. Confirm it is running first.
 pool:
-  name: 'MacBookPro'
+  name: 'Default'
 
 steps:
 - task: Maven@3
