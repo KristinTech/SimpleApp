@@ -6,6 +6,7 @@
 trigger:
 - master
 # I added the MacBookPro agent under default. Confirm it is running first.
+# From the /Users/kristinparis/myagent folder execute ./run.sh
 pool:
   name: 'Default'
 
